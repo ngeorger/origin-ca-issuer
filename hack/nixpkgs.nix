@@ -1,6 +1,6 @@
 import (builtins.fetchTarball {
-  name = "nixos-unstable-2021-03-16";
+  name = "nixos-21.11-2021-12-03";
   url =
-    "https://github.com/NixOS/nixpkgs/archive/266dc8c3d052f549826ba246d06787a219533b8f.tar.gz";
-  sha256 = "09ydqx2lznixmw8z4cfz1j3k137mh8n3cdpygwqymknhfdjq7lg4";
+    "https://github.com/NixOS/nixpkgs/archive/a640d8394f34714578f3e6335fc767d0755d78f9.tar.gz";
+  sha256 = "1dyyzgcmlhpsdb4ngiy8m0x10qmh0r56ky75r8ppvvh730m3lhfj";
 })
